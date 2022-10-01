@@ -46,7 +46,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/emi.css"
-hash = "6cbfcf74a41d25de57e61aef6bcfab095205e066ced283ebee5e18bad98af31a"
+hash = "eabec6c232192b18820a75b669a26273fc8caae3310a525d236551cc93e86af0"
 
 [[files]]
 file = "config/entity_texture_features.json"
@@ -66,7 +66,7 @@ hash = "0430b83e0962a1c5726c507e2771112af64badeb010c49638e2e717bce0ecfab"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cbe3787709fcf42fa9f0c4dcf5feff2b61e0b47dc8373b82294db2f7adb7003a"
+hash = "1cb7b730dfa942eb98f206ce17b9abbd4202bd73a1bb38f7a81ebc8b579bc317"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
@@ -386,6 +386,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "1c6d01b013b9e8c6dd921046adc7c7768814c17a0fde45cbe695c8e2de40f8be"
+metafile = true
+
+[[files]]
+file = "mods/roundaround-axolotl-buckets.pw.toml"
+hash = "af4a3b3293422552cbc310bc7c83b99e1d8b4228a195b43294d257fd62208088"
 metafile = true
 
 [[files]]
