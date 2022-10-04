@@ -57,6 +57,10 @@ file = "config/entityculling.json"
 hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
 
 [[files]]
+file = "config/inspecio.json"
+hash = "7708343e1bec29935db21d882ec4e7dc7f0e6cb347e5478e1359e5d24f64cbca"
+
+[[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
 hash = "f67a43608640547ffc870307cf8e92e4d6ef303971e71ea9b9fde475577cf24b"
 
@@ -66,7 +70,7 @@ hash = "0430b83e0962a1c5726c507e2771112af64badeb010c49638e2e717bce0ecfab"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1cb7b730dfa942eb98f206ce17b9abbd4202bd73a1bb38f7a81ebc8b579bc317"
+hash = "df4772c1c7d200995c8087146b48f5d55868e43f0de3cba8af659df4eb1c848c"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
@@ -130,7 +134,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
-hash = "97b90825ea397eae1dc108b5a9257e3065feacb553e72c019fba62495a72c1d0"
+hash = "3ae1a0c92775ab42564f96758eae529e8d08eb0d1010b5bb810208c71b8b2b4b"
 metafile = true
 
 [[files]]
@@ -180,7 +184,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "314e9f91c9c12ca48ec8a1b1e5c9b5d3da08bd1035af6a63db011c5419644df9"
+hash = "7b27058dd8666dc7da290a8f1027b9a514a71f2cae1aa1cd5e4cd10e06d9fa9a"
 metafile = true
 
 [[files]]
@@ -225,12 +229,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "76f23e3c7d290c587085b22f59e06160a38593d73859cbb4a4738d1fa2fade4d"
+hash = "dfebd8072576c75a939f56cab83cabdf3c5828da7cdb814e97c272e6c0b8d006"
 metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
-hash = "0b0b7d2de5e46b9032ae84b25f554839e7fabfeab7bd8bcb48392b940e112f38"
+hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
 metafile = true
 
 [[files]]
@@ -345,7 +349,7 @@ metafile = true
 
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
-hash = "8c66464e7a6c353ef3b8572c835c6e77dbfb48c872e399d9677838f06616b0ee"
+hash = "60afa14f60b3a0606d36fd5f3646089e39387c0fe154c99e5e2757d534b2b3a2"
 metafile = true
 
 [[files]]
@@ -376,6 +380,11 @@ metafile = true
 [[files]]
 file = "mods/quilt-loading-screen.pw.toml"
 hash = "2e814a41e25a222c3d0363931887da7b8c63522281a7044a21dda255f8318b5e"
+metafile = true
+
+[[files]]
+file = "mods/rainglow.pw.toml"
+hash = "5cc73954e69267c855dfdd2105185c00f93f54531570fbe7e575006279ee54b6"
 metafile = true
 
 [[files]]
