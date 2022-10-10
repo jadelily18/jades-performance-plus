@@ -1,0 +1,13 @@
+name = "VoluBind"
+filename = "volubind-2.0.0+1.19.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kfEow3K7/versions/xjT7xZ5v/volubind-2.0.0%2B1.19.jar"
+hash-format = "sha1"
+hash = "04eeb6549f41bf4eefe833139742606a8113b214"
+
+[update]
+[update.modrinth]
+mod-id = "kfEow3K7"
+version = "xjT7xZ5v"
