@@ -70,7 +70,11 @@ hash = "0430b83e0962a1c5726c507e2771112af64badeb010c49638e2e717bce0ecfab"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "df4772c1c7d200995c8087146b48f5d55868e43f0de3cba8af659df4eb1c848c"
+hash = "9c1f62b52faeec90cf086d76316006bdf64803b828456a5a4ef5b3b4e61aaffa"
+
+[[files]]
+file = "config/minihud.json"
+hash = "368e9841433aad1f47d4caf09ec9a3973e56c9719d84c1aa54df0d9471e922a6"
 
 [[files]]
 file = "config/ok_zoomer/config.toml"
@@ -189,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/craftpresence.pw.toml"
-hash = "7b27058dd8666dc7da290a8f1027b9a514a71f2cae1aa1cd5e4cd10e06d9fa9a"
+hash = "66efe72f8835a60e9b441424a7bd1c554c97ebeb1ecdfce58570bd653ab6079a"
 metafile = true
 
 [[files]]
@@ -389,7 +393,7 @@ metafile = true
 
 [[files]]
 file = "mods/rainglow.pw.toml"
-hash = "5cc73954e69267c855dfdd2105185c00f93f54531570fbe7e575006279ee54b6"
+hash = "021bf5fa46e93d4bd81e03498a2adac9e7b7c2768286611b91a54a708e74cdc2"
 metafile = true
 
 [[files]]
