@@ -70,7 +70,7 @@ hash = "0430b83e0962a1c5726c507e2771112af64badeb010c49638e2e717bce0ecfab"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9c1f62b52faeec90cf086d76316006bdf64803b828456a5a4ef5b3b4e61aaffa"
+hash = "76c46d8f2aec0c758aceaa65d1dc7ba093963f4bb0dca3065b4cb82a7bbb071a"
 
 [[files]]
 file = "config/minihud.json"
