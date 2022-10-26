@@ -34,15 +34,7 @@ hash = "d3edcc8cc6e1a965fd20ee116dcfffdb4f940abf89fa11584c05817bb2d1fc2f"
 
 [[files]]
 file = "config/custom-hud/profile1.txt"
-hash = "4e8c19658f462cc3b86cd8ae8ea68c6cfadb73dc1c03b12533d2178efcfaffa8"
-
-[[files]]
-file = "config/custom-hud/profile2.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/custom-hud/profile3.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "af84c0b15bb78f037086880da91bfc1661cf33f27360db1ae2cfd21083ced979"
 
 [[files]]
 file = "config/emi.css"
@@ -70,7 +62,7 @@ hash = "0430b83e0962a1c5726c507e2771112af64badeb010c49638e2e717bce0ecfab"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "76c46d8f2aec0c758aceaa65d1dc7ba093963f4bb0dca3065b4cb82a7bbb071a"
+hash = "544ce740ed5a4d93080f319fe935748924175e405786904e505f29556b3bddd5"
 
 [[files]]
 file = "config/minihud.json"
@@ -214,6 +206,11 @@ metafile = true
 [[files]]
 file = "mods/draggable-resource-packs.pw.toml"
 hash = "6e94a2241d03fff4d1eef01a82f161f741a76bc61d02ead1dcfeda76e84a815b"
+metafile = true
+
+[[files]]
+file = "mods/ears.pw.toml"
+hash = "bd52ab27068961afc53efd50c527302775b87fb176d10779e0d6a0428dcc51e4"
 metafile = true
 
 [[files]]
