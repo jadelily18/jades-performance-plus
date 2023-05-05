@@ -205,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/emi.pw.toml"
-hash = "0ca0d82d34737fa84dd45a24a1524acb91197848d6180bb7963043bd60959398"
+hash = "69cc56416b06ffff1841f7ac748dde02e916c930f4a403f7d348016f196fe92f"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ hash = "91d02b042634e0ae627cf13a60c3c7ca7e600156b45a3c997ed08842760731fc"
 metafile = true
 
 [[files]]
-file = "mods/minihud-fabric-1.19.4-0.26.2(1).jar"
+file = "mods/minihud-fabric-1.19.4-0.26.2.jar"
 hash = "91f717cd62e48f66a0a7998126ba036deaa71d831b8d7ff7f2a160f07814ca94"
 
 [[files]]
